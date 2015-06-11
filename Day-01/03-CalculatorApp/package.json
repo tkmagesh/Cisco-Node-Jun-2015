@@ -1,0 +1,16 @@
+{
+  "name": "calculatorApp",
+  "version": "0.1.0",
+  "description": "A sample application for Node.js demonstration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "node",
+    "test"
+  ],
+  "author": "Magesh K",
+  "license": "ISC"
+}
